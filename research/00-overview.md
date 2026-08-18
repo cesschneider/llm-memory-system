@@ -126,4 +126,11 @@ Default / best overall → Mem0 (#1)
 
 ---
 
+## 📁 Documentos Adicionais
+
+- [`11-accessibility-barriers.md`](./11-accessibility-barriers.md) — Análise de barreiras de adoção para usuários não técnicos
+- [`12-nocode-alternatives.md`](./12-nocode-alternatives.md) — Caminhos alternativos no-code/low-code (Flowise, Dify, n8n, Zapier, etc.)
+
+---
+
 *Next Phase: Hands-on experiments and integration examples for each tool.*
