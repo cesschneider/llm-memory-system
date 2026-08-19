@@ -131,6 +131,7 @@ Default / best overall → Mem0 (#1)
 - [`11-accessibility-barriers.md`](./11-accessibility-barriers.md) — Análise de barreiras de adoção para usuários não técnicos
 - [`12-nocode-alternatives.md`](./12-nocode-alternatives.md) — Caminhos alternativos no-code/low-code (Flowise, Dify, n8n, Zapier, etc.)
 - [`13-obsidian-second-brain.md`](./13-obsidian-second-brain.md) — Obsidian como Segundo Cérebro: PKM pessoal, empresarial e integração com LLMs
+- [`14-step-by-step-guide.md`](./14-step-by-step-guide.md) — **Guia Prático Completo:** como configurar e usar Obsidian + ChatGPT/Claude/Gemini passo a passo
 
 ---
 
